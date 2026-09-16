@@ -1,0 +1,6 @@
+{
+  "name": "Raghav Furniture",
+  "description": "Discover stylish, comfortable and quality-focused furniture for living rooms, bedrooms, dining spaces and modern homes at Raghav Furniture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
